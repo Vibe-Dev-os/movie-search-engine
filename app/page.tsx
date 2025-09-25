@@ -169,7 +169,7 @@ export default function HomePage() {
               <div className="p-1.5 bg-primary rounded-md">
                 <Film className="h-4 w-4 text-primary-foreground" />
               </div>
-              <span className="text-lg font-bold brand-gradient">PRINCE ERL CORNERO</span>
+              <span className="text-lg font-bold brand-gradient">DSA GROUP 3/span>
             </div>
             <p className="text-sm text-muted-foreground">Crafting exceptional movie discovery experiences</p>
             <div className="pt-4 border-t border-border/50">
